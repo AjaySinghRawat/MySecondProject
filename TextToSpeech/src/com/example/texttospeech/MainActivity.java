@@ -31,7 +31,7 @@ public class MainActivity extends Activity implements OnInitListener,
 
 	}
 
-	/*@Override
+	@Override
 	public void onInit(int status) {
 		// TODO Auto-generated method stub
 
@@ -44,7 +44,7 @@ public class MainActivity extends Activity implements OnInitListener,
 			}
 		}
 
-	}*/
+	}
 
 	@Override
 	public void onClick(View v) {
